@@ -1,0 +1,7 @@
+T = int(input())
+if T < 8:
+    print("LESS")
+elif T == 8 :
+    print("PERFECT")
+else :
+    print("MORE")
